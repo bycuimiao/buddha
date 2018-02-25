@@ -18,3 +18,5 @@ V1.0使用教程
       <version>1.0</version>
     </dependency>
 
+ps：抱歉，target和.idea等文件一起提交了，可能会给您使用代码造成麻烦，
+在后续版本中会解决这些问题
