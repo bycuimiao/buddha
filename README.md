@@ -15,6 +15,6 @@ V1.0使用教程
 <dependency>
       <groupId>org.waters.forfun</groupId>
       <artifactId>amulet</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
     </dependency>
 
