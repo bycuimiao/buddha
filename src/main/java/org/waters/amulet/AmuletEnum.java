@@ -3,7 +3,7 @@ package org.waters.amulet;
 /**
  * @auther cuimiao
  * @date 2018/2/25/025  14:47
- * @Description: ${todo}
+ * @Description:
  */
 public class AmuletEnum {
     final static String buddha =
